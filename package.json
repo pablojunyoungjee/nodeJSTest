@@ -1,0 +1,17 @@
+{
+  "name": "testserver",
+  "version": "1.0.0",
+  "description": "kakaoworkdemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "keywords": [
+    "testkeyword"
+  ],
+  "author": "pablojee",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
