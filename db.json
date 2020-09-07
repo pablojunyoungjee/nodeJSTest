@@ -1,4 +1,20 @@
 {
+  "userData": {
+    "userName": "pablo.jee",
+    "userTeam": "EP실 iOS2셀",
+    "workHour": "10:00~19:00"
+  },
+  "userFavoriteTeam": [
+    {"teamName" : "EP iOS 2셀",
+    "count": 10}
+  ],
+  "userFavoriteMembers": [
+    {"name": "김창대", "nickName": "cube.kim", "workHour": "10:00 ~ 19:00"},
+    {"name": "최진우", "nickName": "nathan.c", "workHour": "10:00 ~ 19:00"},
+    {"name": "김삼열", "nickName": "samuel.k", "workHour": "10:00 ~ 19:00"},
+    {"name": "윤다원", "nickName": "won.yoon", "workHour": "10:00 ~ 19:00"}
+  ],
+
   "badges":[
      {
         "count":1,
