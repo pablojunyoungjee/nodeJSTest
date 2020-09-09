@@ -1,20 +1,48 @@
 {
   "userData": {
-    "userName": "pablo.jee",
-    "userTeam": "EP실 iOS2셀",
-    "workHour": "10:00~19:00"
+    "profileImageURL": "",
+    "nickName": "pablo.jee",
+    "name": "지준영",
+    "rank": "팀원",
+    "department": "EP실 iOS2셀",
+    "workHour": "10:00 ~ 19:00"
   },
-  "userTeamData": {
+  "userFavoriteInfoData": {
     "userFavoriteTeam": [
       {"teamName" : "EP iOS 2셀",
-      "count": 10}
+      "count": 10
+      }
     ],
-    "userFavoriteMembers": [
-      {"name": "김창대", "nickName": "cube.kim", "workHour": "10:00 ~ 19:00"},
-      {"name": "최진우", "nickName": "nathan.c", "workHour": "10:00 ~ 19:00"},
-      {"name": "김삼열", "nickName": "samuel.k", "workHour": "10:00 ~ 19:00"},
-      {"name": "윤다원", "nickName": "won.yoon", "workHour": "10:00 ~ 19:00"}
-    ]
+    "userFavoriteMembers":[
+      {
+         "name":"김창대",
+         "nickName":"cube.kim",
+         "workHour":"10:00 ~ 19:00",
+         "rank": "팀원",
+         "department": "EP iOS 2셀"
+      },
+      {
+         "name":"최진우",
+         "nickName":"nathan.c",
+         "workHour":"10:00 ~ 19:00",
+         "rank": "팀원",
+         "department": "EP iOS 2셀"
+      },
+      {
+         "name":"김삼열",
+         "nickName":"samuel.k",
+         "workHour":"10:00 ~ 19:00",
+         "rank": "팀원",
+         "department": "EP iOS 2셀"
+      },
+      {
+         "name":"윤다원",
+         "nickName":"won.yoon",
+         "workHour":"10:00 ~ 19:00",
+         "rank": "팀원",
+         "department": "EP iOS 2셀"
+      }
+   ]
   },
   "badges":[
      {
